@@ -1,5 +1,5 @@
 {
-  "name": "starwars-names",
+  "name": "starwars-auxibee",
   "version": "1.0.0",
   "description": "Get randoom star war names",
   "main": "src/index.js",
