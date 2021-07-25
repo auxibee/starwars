@@ -1,0 +1,25 @@
+{
+  "name": "starwars-names",
+  "version": "1.0.0",
+  "description": "Get randoom star war names",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/auxibee/starwars.git"
+  },
+  "keywords": [
+    "random",
+    "star",
+    "wars",
+    "names"
+  ],
+  "author": "'yaw <'auxibee@gmail.com'>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/auxibee/starwars/issues"
+  },
+  "homepage": "https://github.com/auxibee/starwars#readme"
+}
