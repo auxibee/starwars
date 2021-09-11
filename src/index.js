@@ -15,3 +15,7 @@ function git_basics(name){
     return name
 }
 
+function calc_divide(num){
+    return num/2
+}
+
