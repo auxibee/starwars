@@ -11,3 +11,7 @@ function getRandomName(array){
     return array[random]
 }
 
+function git_basics(name){
+    return name
+}
+
