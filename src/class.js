@@ -4,6 +4,9 @@ function CreateStudent(name, age){
         age,
         fullname(){
             return name + 'hello world'
+        },
+        getAge(){
+            return age + 100
         }
     }
 }
